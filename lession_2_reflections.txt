@@ -6,3 +6,15 @@ Staging area is the middle ground to contain files ready to commit
 
 How can you use staging area to make sure you have one commit per logical change ?
 By using staging area, i can add individual files to commit instead of only able to commit the whole repository.
+
+When to use Branches ?
+When i want to make experiment changes while keeping the original code untouch.
+
+How do the diagrams help you visualize the branch structure ?
+I help see which commit is left out
+
+What is the result of merging two branches together ?
+The currently check out branch merge with the other one.
+
+Pros and cons of Git's automatic merging ?
+Pros: Fast and convinient. Cons: Conflict might happen or unexpected bug may occur.
