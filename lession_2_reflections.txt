@@ -1,0 +1,2 @@
+What happen when you initialize a respository ? Why do you need to do it ?
+A .git folder is make to make. I need it because it allow version control on my folder possible.

@@ -1,0 +1,20 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced ?
+By seeing only the different between the working old version and the broken new version, i was able to spot the bug that prevent my program from running.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term ?
+With a version control, i can always review my code to see the changes and to revert back to any versions of my file which save me lots of time. It's also a good way to quickly find bug introduced in the file's latest version by comparing it to the old ones.
+
+Pros and cons of manual vs auto commit ?
+Auto commit prevent user forgetting to save changes but at the same time not always save at the right time. Manual require user to remember to commit changes but allow great flexibility and more logical than automatic.
+
+Why Git track multiple files while others like Google Docs track separately ?
+Because Git is speciallize in tracking code, which tend to have many files depending on each others in a project.
+
+How git diff and git log ?
+Use git log to see all the commit, use git diff to compare a commit with the previous commit to see all the changes.
+
+How VC make you more confident in changing code ?
+Because i can revert to older version anytime i want.
+
+How do you want to use Git ?
+Use it with my programming practive project.
