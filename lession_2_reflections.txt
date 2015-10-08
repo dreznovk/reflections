@@ -4,3 +4,5 @@ A .git folder is make to make. I need it because it allow version control on my 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area is the middle ground to contain files ready to commit
 
+How can you use staging area to make sure you have one commit per logical change ?
+By using staging area, i can add individual files to commit instead of only able to commit the whole repository.
