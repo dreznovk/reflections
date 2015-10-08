@@ -1,2 +1,6 @@
 What happen when you initialize a respository ? Why do you need to do it ?
 A .git folder is make to make. I need it because it allow version control on my folder possible.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area is the middle ground to contain files ready to commit
+
