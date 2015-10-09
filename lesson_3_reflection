@@ -9,3 +9,8 @@ Clone: Copy a respository from one location (local or remote) to another.
 Forks: Clone on GitHub.
 Branches: A different path for commit.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+It allow you to keep track of the changes in your file in relation with the last time you pull from remote repository. 
+
+
+
