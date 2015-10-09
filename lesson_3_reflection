@@ -12,5 +12,7 @@ Branches: A different path for commit.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 It allow you to keep track of the changes in your file in relation with the last time you pull from remote repository. 
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I would have to be in the same work space or in the same network as them to be able to collaborate effectively, the upside is that i will avoid conflict better and have better understanding of each other's work
 
 
